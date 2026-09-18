@@ -30,7 +30,7 @@ Library Shared:
   
   3.5- NDVI Anomaly Plotting - Plot maps showing anomaly results
   
-4- Land Cover and Ecoregion Processing - Layda Spor Leal
+4- LANDCOVER AND ECOREGION PROCESSING - Layda Spor Leal
   
   4.1- Landcover Coordinates by Year - Identify the landcover for each coordinate and year
   
