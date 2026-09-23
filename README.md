@@ -41,3 +41,5 @@ Library Shared:
   4.4- Anomaly Heatmaps by NDVI - Plot NDVI average anomaly filtered by landcover and ecoregion
   
   4.5- Anomaly Heatmaps by SIF - Plot SIF average anomaly filtered by landcover and ecoregion
+
+Disclaimer: Some of these codes were developed with the aid of AI to adjust for formatting and storage issues.
